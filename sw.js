@@ -1,9 +1,9 @@
 const CACHE_NAME = 'pwa-cache-v2'; // <--- เปลี่ยนชื่อเวอร์ชัน Cache ตรงนี้
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/manifest.json',
-  '/icon-192.png'
+  './',
+  './index.html',
+  './manifest.json',
+  './icon-192.png'
 ];
 
 // ขั้นตอน Install
